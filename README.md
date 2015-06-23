@@ -89,7 +89,7 @@ In my book, all of these people are ace - I just borrowed from them and spliced 
         });
         
         // Or, if you just used 'mc-action' as the hidden input's ID:
-        $('#form-id').motioncaptcha();
+        $('#form-id').motionCaptcha();
 
 7. Other options are available (defaults are shown):
 
